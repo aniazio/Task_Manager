@@ -6,7 +6,7 @@ public class SQLBasics {
 
     protected static String schema = "tasks";
     private static String user = "root";
-    private static String password = "Flp2,5-11";
+    private static String password = "password";
 
     protected static Connection startConnection()
             throws SQLException {
