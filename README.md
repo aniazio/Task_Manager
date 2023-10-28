@@ -27,7 +27,7 @@ In the "Task Manager" window, you can add tasks and change their properties. To 
 of the task, select the task from the table, and then select the options in the checkboxes. After making changes, confirm them by pressing the "Commit changes" button. To delete a task, select it from the table, 
 and then press the "Delete a task" button.
 
-Apart from that, user can modify the data in the "people" table in a separate application, which can be opened by calling the main method of the PeopleSwing.class. In this application user can add new people to the table via the top text field and the "Insert into table" button. User can also modify and delete people in the table via aplication. To do this, they should select the appropriate row in the table, change the data using the lower text box, and then press the appropriate button.
+Apart from that user can modify the data in the "people" table in a separate application, which can be opened by calling the main method of the PeopleSwing.class. In this application user can add new people to the table via the top text field and the "Insert into table" button. User can also modify and delete people in the table via aplication. To do this, they should select the appropriate row in the table, change the data using the lower text box, and then press the appropriate button.
 
 ## PL
 
